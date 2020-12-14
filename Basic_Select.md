@@ -216,7 +216,3 @@ SELECT Name FROM Students
 WHERE Marks > 75
 ORDER BY RIGHT(Name, 3), ID;
 ```
-
-**NEW TABLE: EMPLOYEE**
-
-The EMPLOYEE table is described as follows: (This table will be used for all problems until a new table is declared)
